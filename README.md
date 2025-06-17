@@ -205,4 +205,4 @@ This application demonstrates:
 **Developer**: Aakrosh Rai  
 **Student ID**: s8080055  
 **Course**: NIT3213 - Android Application Development  
-**Assignment**: Final Project - Dynamic Android Application 
+**Assignment**: Final Project - Dynamic Android Application
